@@ -1,4 +1,4 @@
 TESTING
--- Scrolling navigation
--- Design renewal
--- Responsiveness for mobile devices. 
+- Scrolling navigation
+- Design renewal
+- Responsiveness for mobile devices. 
